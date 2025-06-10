@@ -58,6 +58,11 @@ I'm a self-driven tech enthusiast on a mission to **master code, cybersecurity, 
 ---
 
 ## 📊 GitHub Stats
+<img src="https://github-contributions.vercel.app/api?username=JoshuaNderitu&svg=true" width="100%" />
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=JoshuaNderitu&svg=true" width="100%" />
+</p>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaNderitu&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNderitu&layout=compact&theme=github_dark)
