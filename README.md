@@ -1,7 +1,23 @@
+
+<p align="center">
+  <img src="https://github.com/JoshuaNderitu/JoshuaNderitu/blob/main/banner.webp" alt="Banner" />
+</p>
+
 # 👋 Hello, I'm Animathics (aka Joshua Nderitu)
+
+<h3 align="center">💻 Cybersecurity | 👨‍💻 Programmer | 🎥 YouTuber</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,sql,html,css,bash,vscode,c" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Cybersecurity+Learner;C%2C+Python%2C+SQL+Dev;Building+cool+projects+daily" alt="Typing SVG" />
+</p>
 
 ## 🧠 About Me
 I'm a self-driven tech enthusiast on a mission to **master code, cybersecurity, and creativity — one day at a time**.
+
 
 - 🔭 Currently working on:  
   - A SQL-based News Sentiment Database  
@@ -27,14 +43,9 @@ I'm a self-driven tech enthusiast on a mission to **master code, cybersecurity, 
 ---
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
-![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,sql,html,css,bash,vscode,c" />
+</p>
 
 ---
 
@@ -58,11 +69,6 @@ I'm a self-driven tech enthusiast on a mission to **master code, cybersecurity, 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-contributions.vercel.app/api?username=JoshuaNderitu&svg=true" width="100%" />
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=JoshuaNderitu&svg=true" width="100%" />
-</p>
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaNderitu&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNderitu&layout=compact&theme=github_dark)
