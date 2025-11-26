@@ -1,0 +1,23 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Generated Files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "generated/*"
+          message: "Update stats"
