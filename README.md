@@ -70,8 +70,9 @@ I'm a self-driven tech enthusiast on a mission to **master code, cybersecurity, 
 
 ## 📊 GitHub Stats
 
-![Joshua's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoshuaNderitu)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNderitu&layout=compact&theme=github_dark)
+![ Joshua's Stats](https://raw.githubusercontent.com/JoshuaNderitu/JoshuaNderitu/main/generated/overview.svg)
+![Top Languages](https://raw.githubusercontent.com/JoshuaNderitu/JoshuaNderitu/main/generated/languages.svg)
+
 
 ---
 
